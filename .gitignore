@@ -1,0 +1,10 @@
+node_modules
+.idea
+.settings
+.vscode
+dist
+tmp
+coverage
+typings/*
+!typings/.gitkeep
+src/.env
